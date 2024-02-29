@@ -1,3 +1,26 @@
 h1{
   color:red;
 }
+
+.counter{
+  overflow:hidden;
+}
+
+.counter_item{
+  float:left;
+  padding:20px 30px;
+}
+
+.janken_contents{
+  overflow:hidden;
+}
+
+.janken_item{
+  float:left;
+  padding:20px 30px;
+  width: 250px;
+}
+
+.computer_text{
+  padding-top: 25px;
+}
