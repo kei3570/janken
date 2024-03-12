@@ -1,3 +1,5 @@
+
+
 h1{
   color:red;
 }
@@ -23,4 +25,8 @@ h1{
 
 .computer_text{
   padding-top: 25px;
+}
+
+.hidden {
+  display: none;
 }
